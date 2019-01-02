@@ -1,0 +1,1026 @@
+E:\code\admelicode\Admeli\bin\Debug\Admeli.exe.config
+E:\code\admelicode\Admeli\bin\Debug\Admeli.exe
+E:\code\admelicode\Admeli\bin\Debug\Admeli.pdb
+E:\code\admelicode\Admeli\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\code\admelicode\Admeli\bin\Debug\Entidad.dll
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.dll
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.dll
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.dll
+E:\code\admelicode\Admeli\bin\Debug\Modelo.dll
+E:\code\admelicode\Admeli\bin\Debug\Newtonsoft.Json.dll
+E:\code\admelicode\Admeli\bin\Debug\Entidad.pdb
+E:\code\admelicode\Admeli\bin\Debug\Modelo.pdb
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.pdb
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.xml
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.pdb
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.xml
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.pdb
+E:\code\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.xml
+E:\code\admelicode\Admeli\bin\Debug\Newtonsoft.Json.xml
+E:\code\admelicode\Admeli\obj\Debug\Admeli.csprojResolveAssemblyReference.cache
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.Cache
+E:\code\admelicode\Admeli\obj\Debug\Admeli.csproj.CoreCompileInputs.cache
+E:\code\admelicode\Admeli\obj\Debug\Admeli.exe
+E:\code\admelicode\Admeli\obj\Debug\Admeli.pdb
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+E:\code\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Admeli.exe.config
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Admeli.exe
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Admeli.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Entidad.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Modelo.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Entidad.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Modelo.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.xml
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dennys\source\repos\admelicode\Admeli\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.csprojAssemblyReference.cache
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEstadoCajas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.FormAsignarDetalleEntrada.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.buscar.FormBuscarProducto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Detalle.FormDetalleStock.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteFlujo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormAsignarDetalleVenta.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProveedor.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormSeleccion.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProducto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Adelantos.FormUsarAdelanto.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.detalle.Forminfo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOrdenPedido.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCPedidos.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.cache
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.csproj.CoreCompileInputs.cache
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.csproj.CopyComplete
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.exe
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.pdb
+C:\Users\Dennys\source\repos\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCompraPedido.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\bin\Debug\Admeli.exe.config
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.exe
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.pdb
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.csprojResolveAssemblyReference.cache
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEstadoCajas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.FormAsignarDetalleEntrada.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.buscar.FormBuscarProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Detalle.FormDetalleStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteFlujo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormAsignarDetalleVenta.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormSeleccion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Adelantos.FormUsarAdelanto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.detalle.Forminfo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCompraPedido.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOrdenPedido.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCPedidos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.Cache
+E:\Admeli Windows 3.0.0.0\admelicode\Admeli\bin\Debug\Admeli.exe.config
+E:\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.exe
+E:\Admeli Windows 3.0.0.0\admelicode\Admeli\obj\Debug\Admeli.pdb
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\bin\Debug\Admeli.exe.config
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.exe
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.pdb
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.csprojResolveAssemblyReference.cache
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEstadoCajas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.FormAsignarDetalleEntrada.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.buscar.FormBuscarProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Detalle.FormDetalleStock.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteFlujo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormAsignarDetalleVenta.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProveedor.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormSeleccion.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProducto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Adelantos.FormUsarAdelanto.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.detalle.Forminfo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCompraPedido.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOrdenPedido.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCPedidos.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+D:\Sistemas\ADMELI y CODE GOLD\Admeli Windows 3.0.0.0.1\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Admeli.exe.config
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Admeli.exe
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Admeli.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Entidad.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Modelo.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Entidad.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Entidad.dll.config
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Modelo.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Modelo.dll.config
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.xml
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.xml
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.pdb
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.xml
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.csprojAssemblyReference.cache
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEstadoCajas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.FormAsignarDetalleEntrada.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.buscar.FormBuscarProducto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Detalle.FormDetalleStock.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteFlujo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormAsignarDetalleVenta.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProveedor.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormSeleccion.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProducto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Adelantos.FormUsarAdelanto.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.detalle.Forminfo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCompraPedido.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOrdenPedido.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCPedidos.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.cache
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.csproj.CopyComplete
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.exe
+C:\xampp\htdocs\Admeli 3\admelicode\Admeli\obj\Debug\Admeli.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Admeli.exe.config
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Admeli.exe
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Admeli.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Entidad.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Modelo.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Entidad.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Entidad.dll.config
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Modelo.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Modelo.dll.config
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.xml
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.WinForms.xml
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.pdb
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\LiveCharts.Wpf.xml
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.csprojAssemblyReference.cache
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarVentas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscardetalleNotaSalida.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarCompra.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.FormBuscarNotaSalida.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.buscar.formGeografia.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.fecha.FormFecha.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormMotivoNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.detalle.FormTransporteNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormEntradaNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormNotaSalidaNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.Nuevo.FormRemisionNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCGuiaRemision.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaEntrada.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.AlmacenBox.UCNotaSalida.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormArquearCaja.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaCobrar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormCuentaPagar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetalleCobroNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormDetallePagoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormEgresoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.Nuevo.FormIngresoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCierreCaja.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaCobrar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCCuentaPagar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEgresos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCEstadoCajas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIngresos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.CajaBox.UCIniciarCaja.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Componentes.FormSuccess.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.buscarOrden.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Buscar.BuscarProveedor.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.FormAsignarDetalleEntrada.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.buscar.FormBuscarProducto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.buscar.formGeografia.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.FormContactoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorContacto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneralCompra.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.Detalle.UCProveedorGeneral.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormCompraN.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormOrdenCompraNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.Nuevo.FormProveedorNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCCompras.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCOrdenCompraProveedor.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Compras.UCProveedores.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormAsignarCorrelativoModificar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormDiseñoComprobantes.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.FormUsuario.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Modificar.redimensionarPagina.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormAlmacenNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDenominacionNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormDocumentoIdetificaionNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormImpuestoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormMonedaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPersonalNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormPuntoVentaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormSucursalNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormGrupoClienteNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.Nuevo.FormTipoDocumentoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAlmacenes.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCAsignarCorrelativo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCCajasInicializadas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDatosEmpresa.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDenominaciones.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDisenoPersonalizacion.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCDocumentoIdentificacion.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCGrupoClientes.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestoDocumento.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCImpuestos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoDocumentos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCListadoMoneda.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPersonal.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCPuntoDeVenta.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCSucursales.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Configuracion.UCTipoCambio.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Form1.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.FormConfigInicial.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.FormLogin.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.FormPrincipal.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Detalle.FormDetalleStock.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.Report.FormReportProducto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarCategorias.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCAsignarImpuesto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Herramientas.UCInicializarStock.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCConfigNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.NavDarck.UCConfigNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCAlmacenNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCCajaNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCComprasNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCHerramientasNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCProductosNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCReporteNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.SubMenu.UCVentasNav.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCConfigRoot.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCMessageRoot.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Navigation.UCTiendaRoot.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Detalle.FormDetalleStock.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Importar.FormImportarProduto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormCategoriaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormMarcaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormProductoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.FormUnidadMedidaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormAlternativaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormDescuentoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormElegirCategoria.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormNuevoImpuesto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormOfertaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPrecioDetalle.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormPresentacionNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormStockNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.FormVarianteNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.sub.FormgGenerar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCAdicionalPD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCDescuentosPD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCGeneralesPD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCImpuestoPDN.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCStockPD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.UCTiendaOnlinePD.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormComentarioNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.Nuevo.PDetalle.web.FormRelacionNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCCategorias.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCListadoProducto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCMarcas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Productos.UCUnidadesMedida.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Properties.Resources.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Reportes.elegirCamposExportar.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteExisteciaProductos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteFlujo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Reportes.UCReporteImpuestos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.UCHome.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Buscar.Buscarcliente.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarCotizacion.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormAsignarDetalleVenta.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProveedor.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormSeleccion.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.buscar.FormBuscarProducto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.FormVentaTouch.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Adelantos.FormUsarAdelanto.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.detalle.Forminfo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCClienteGeneral.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.Detalle.UCNuevoGrupo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCompraPedido.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOrdenPedido.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormVentaNewR.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormDescuentoNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormOfertaNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormCotizacionaNew.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.Nuevo.FormClienteNuevo.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCClientes.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCPedidos.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCCotizacionCliente.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCDescuentosOfertas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.Ventas.UCVentas.resources
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.csproj.GenerateResource.cache
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.csproj.CopyComplete
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.exe
+C:\xampp\htdocs\Admeli3\admelicode\Admeli\obj\Debug\Admeli.pdb

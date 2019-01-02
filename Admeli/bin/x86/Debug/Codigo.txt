@@ -1,0 +1,1 @@
+[{"idProveedor":8,"codigoGenerado":"jr4LS"},{"idProveedor":9,"codigoGenerado":"KYj77"},{"idProveedor":10,"codigoGenerado":"vGwHz"}]
